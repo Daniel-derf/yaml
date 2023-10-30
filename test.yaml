@@ -6,7 +6,8 @@ objeto:
   versao: 2
   arquivo: "teste.txt"
 
-string_sem_aspas: texto válido
-string_com_aspas: "texto válido também"
+string_sem_aspas: texto valido
+string_com_aspas: "texto valido também"
 
-  
+valor_nulo: ~
+valor_nulo2: null
