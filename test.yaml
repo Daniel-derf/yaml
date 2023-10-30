@@ -17,3 +17,11 @@ boolean_true2: On
 
 boolean_false1: False
 boolean_false2: Off
+
+array1: [1,2,3,4]
+
+array2:
+ - 1
+ - 2
+ - 3
+ - 4
