@@ -11,3 +11,9 @@ string_com_aspas: "texto valido também"
 
 valor_nulo: ~
 valor_nulo2: null
+
+boolean_true1: True
+boolean_true2: On
+
+boolean_false1: False
+boolean_false2: Off
