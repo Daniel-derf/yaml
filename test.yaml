@@ -25,3 +25,10 @@ array2:
  - 2
  - 3
  - 4
+
+obj1: {a: 1, b: 2, c: 3}
+
+obj2:
+  chave1: 1
+  chave2: 2
+  chave3: 3
