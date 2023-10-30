@@ -1,2 +1,11 @@
+# Instruções para o programa
 nome: "Daniel"
 idade: 19
+
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+
+
+  
+  
